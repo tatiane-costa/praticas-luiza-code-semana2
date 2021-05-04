@@ -1,0 +1,18 @@
+Prática 06 - Crie duas classes, uma chamada professor e outra aluna. Com os
+seguintes atributos:
+● Professor: Nome, curso, cpf, salario, lista de alunos.
+● Aluna: Nome, nota1, nota2.
+Imprima na Main o nome do professor e seu curso.
+Prática 07 - Agora, utilizando o projeto da prática anterior, na classe Professor
+faça um método para calcular o salário do professor. Para esse cálculo é
+necessário saber o valor da hora aula do professor e o número de aulas
+ministradas).
+Salario = Valor hora aula * aula ministradas
+O valor da aula é um valor fixo de R$29,00, faça com que a pessoa usuáriaentrar com o valor de número de aulas ministradas. Dica: Utilize um método
+"setSalarioProfessor", este método será chamado na Main. Por fim, imprima na
+Main o salário do professor, lembrando que o atributo salário é private.
+Prática 08 - Com o projeto anterior, crie um método de calcularMedia na
+classe Aluna. Os valores da nota1 e nota2 serão informados pela pessoa
+usuária, juntamente com o nome da aluna.
+Na main, imprima o nome da aluna com a média final, informando se o aluno
+foi "Aprovado" ou "Reprovado" ( media >= 7, a aluna está aprovada)

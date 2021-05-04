@@ -1,0 +1,26 @@
+Prática 01 - Crie uma classe para pessoa com as seguintes características:
+● Atributos:
+○ Nome, idade, CNH
+● Metodos:
+○ Dirigir, dormir, comer
+Prática 02 - Desenvolva o seguinte relacionamento
+Perceba que a classe Pessoa vai ter um objeto do tipo Endereço.
+Lembre-se de criar os construtores parametrizados.
+Prática 03 - Agora, continuando o exercício anterior, adicione as seguintes
+classes no resultado da Prática anterior.
+Perceba que a classe Compra vai conter um objeto do tipo Pessoa e outro do
+tipo Produto.
+Será possível comprar usando o método comprar, passando comoparâmetro dois objetos, um do tipo Pessoa e outro do tipo Produto.
+Prática 04 - Utilizando o algoritmo implementado na prática 03, agora
+desenvolva a classe Main:
+● Inicialmente, a classe deve criar 2 objetos do tipo Produto (crie os
+objetos com as informações que desejar)
+● O usuário faz um cadastro (criando um objeto do tipo Pessoa)
+● Logo após, o usuário seleciona entre os 2 produtos cadastrados
+anteriormente
+● Dependendo da escolha, é acessado o método comprar da classe
+Compra, e passado como parâmetro o objeto Pessoa que ele cadastrou
+e o do Produto escolhido
+● Logo após, é exibido no console ao usuário uma mensagem de
+confirmação, exibindo o nome dele e do produto comprado (acesso ao
+método verificarCompra()) e finaliza a aplicação

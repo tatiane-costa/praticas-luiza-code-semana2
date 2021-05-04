@@ -1,0 +1,8 @@
+Prática 09 - Utilizando o projeto desenvolvido na prática 05, agora nosso
+banco possui três tipos de conta
+● Conta poupança
+● Conta corrente : o banco disponibiliza um limite de R$ 100 para que seja
+usado quando o saldo da conta acabar.
+Realize essa alteração no código e depois imprima as informações.
+Lembre-se do método verInfo, ele deve mostrar todas as informações de cada
+conta

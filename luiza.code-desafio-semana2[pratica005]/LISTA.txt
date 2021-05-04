@@ -1,0 +1,4 @@
+Prática 05 - Construa o seguinte relacionamento
+Na main, crie três objetos Pessoa e para cada uma crie uma Conta.
+Faça operações de sacar e transferir dinheiro entre essas contas.
+No final, mostre as informações de cada cliente e sua respectiva conta.
